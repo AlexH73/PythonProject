@@ -1,0 +1,32 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+# Logs
+
+*.log
+# Virtualenv
+.venv/
+env/
+venv/
+virtualenv/
+# IDE
+.vscode/
+.pydevproject
+.project
+.settings/
+# Miscellaneous
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.egg-info/
+dist/
+build/
+*.egg
+*.manifest
+*.spec
+*.dist-info/
+*.whl
+#Practice/
+Presentation/
+cohort_57_1_publick/
+pythonProject1/
