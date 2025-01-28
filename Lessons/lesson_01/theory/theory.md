@@ -1,4 +1,5 @@
-**English** ## Computer Program
+**English** 
+## Computer Program
 
 A computer program is a set of instructions that a computer executes to solve a specific task or perform certain actions. A program can control computer hardware, process data, display information, perform calculations, and interact with the user.
 
